@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", "GameEngine.csproj", "{D2640D01-4C23-4099-8E06-7C3856E43307}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine", ".\GameEngine\GameEngine.csproj", "{D2640D01-4C23-4099-8E06-7C3856E43307}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine.Tests", "..\GameEngine.Tests\GameEngine.Tests.csproj", "{7B7AA4D8-E8F3-4E07-BEDF-720C032678E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEngine.Tests", ".\GameEngine.Tests\GameEngine.Tests.csproj", "{7B7AA4D8-E8F3-4E07-BEDF-720C032678E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
